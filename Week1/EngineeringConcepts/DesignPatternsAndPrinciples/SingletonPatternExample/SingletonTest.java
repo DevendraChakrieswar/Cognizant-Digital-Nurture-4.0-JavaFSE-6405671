@@ -1,4 +1,4 @@
-package Week1.EngineeringConcepts.DesignPatternsAndPrinciples.SinglePatternExample;
+package Week1.EngineeringConcepts.DesignPatternsAndPrinciples.SingletonPatternExample;
 
 public class SingletonTest {
     public static void main(String[] args) {
