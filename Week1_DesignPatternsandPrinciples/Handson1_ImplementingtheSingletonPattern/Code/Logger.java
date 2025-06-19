@@ -1,4 +1,4 @@
-package Week1.EngineeringConcepts.DesignPatternsAndPrinciples.SingletonPatternExample;
+package Week1_DesignPatternsandPrinciples.Handson1_ImplementingtheSingletonPattern.Code;
 
 public class Logger {
     private static Logger instance;
@@ -18,3 +18,4 @@ public class Logger {
         System.out.println("[LOG]: " + message);
     }
 }
+

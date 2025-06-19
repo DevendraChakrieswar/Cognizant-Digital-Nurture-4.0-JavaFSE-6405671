@@ -1,4 +1,5 @@
-package Week1.EngineeringConcepts.DesignPatternsAndPrinciples.FactoryMethodPatternExample.documents;
+package Week1_DesignPatternsandPrinciples.Handson2_ImplementingtheFactoryMethodPattern.Code.documents;
+
 
 public class PdfDocument implements Document {
     public void open() {
