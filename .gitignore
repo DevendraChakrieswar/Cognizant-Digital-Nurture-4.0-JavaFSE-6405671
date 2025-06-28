@@ -1,6 +1,8 @@
 # Ignore compiled class files
 *.class
 
+.gitignore
+
 # Ignore build directories
 /bin/
 /build/
